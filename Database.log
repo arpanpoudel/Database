@@ -1,0 +1,630 @@
+2023-01-27 15:16:26,882 INFO: [Info]Fortune500 Database created..
+2023-01-27 15:16:41,521 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:23:38,407 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:24:20,525 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:27:16,231 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:28:06,207 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:28:45,672 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:30:15,802 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:35:00,759 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:35:47,635 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:36:53,326 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:39:29,105 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:40:21,860 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:41:13,217 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:44:01,980 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:44:49,263 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:52:29,962 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:53:01,741 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:53:42,702 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:53:59,221 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:55:04,429 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:55:55,350 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:56:28,072 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:56:45,966 INFO: [Info] Fortune500 Database created..
+2023-01-27 15:57:31,056 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:01:05,337 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:01:24,567 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:01:38,383 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:01:48,733 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:02:00,522 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:02:14,486 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:02:24,646 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:02:33,060 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:02:46,725 INFO: [Info] Fortune500 Database created..
+2023-01-27 16:03:12,545 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:48:38,327 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:48:55,510 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:50:30,992 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:50:44,561 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:52:12,440 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:55:18,681 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:57:13,640 INFO: {file_name} closed successfully.
+2023-01-27 17:57:13,641 INFO: [Info] Fortune500 Database created..
+2023-01-27 17:57:13,653 INFO: Fortune500 Database open was successfully opened.
+2023-01-27 17:57:13,653 INFO: {file_name} closed successfully.
+2023-01-27 17:57:24,948 INFO: Fortune500 Database open was successfully opened.
+2023-01-27 17:57:24,948 INFO: {file_name} closed successfully.
+2023-01-27 17:58:30,156 INFO: Fortune500 Database open was successfully opened.
+2023-01-27 17:58:30,157 INFO: Fortune500 closed successfully.
+2023-01-27 17:59:04,676 INFO: Fortune500 Database successfully opened.
+2023-01-27 17:59:04,677 INFO: Fortune500 closed successfully.
+2023-01-27 18:00:29,386 INFO: Fortune500 Database successfully opened.
+2023-01-27 18:21:46,907 INFO: Fortune500 Database successfully opened.
+2023-01-27 18:22:46,354 INFO: Fortune500 Database successfully opened.
+2023-01-27 18:24:12,147 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:13:13,323 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:14:39,376 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:15:44,030 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:16:10,071 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:16:24,145 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:16:38,201 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:16:45,451 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:22:38,163 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:33:21,426 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:33:40,812 INFO: Fortune500 Database successfully opened.
+2023-01-28 13:34:28,522 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:21:59,387 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:22:31,351 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:22:50,239 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:23:57,880 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:24:19,398 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:42:09,349 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:43:24,803 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:44:39,749 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:44:47,970 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:46:30,799 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:46:46,409 INFO: Fortune500 Database successfully opened.
+2023-01-28 14:52:03,869 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:32:46,732 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:35:09,619 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:35:23,353 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:35:58,568 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:36:12,465 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:40:22,285 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:41:16,698 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:41:49,721 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:42:04,996 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:42:10,841 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:42:20,884 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:42:56,250 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:43:15,718 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:45:02,602 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:45:27,493 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:45:40,468 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:45:57,008 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:46:19,304 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:46:19,305 INFO: Fortune500 closed successfully.
+2023-01-28 15:47:24,619 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:50:29,649 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:50:39,777 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:50:52,809 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:51:22,203 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:51:30,731 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:51:36,269 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:52:43,075 INFO: Fortune500 Database successfully opened.
+2023-01-28 15:53:04,858 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:23:46,384 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:23:53,655 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:24:08,634 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:25:22,817 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:25:52,920 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:26:40,562 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:31:40,002 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:31:54,786 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:37:52,214 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:39:39,351 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:41:27,245 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:42:36,991 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:43:15,827 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:51:17,989 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:51:33,700 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:54:42,565 INFO: Fortune500 Database successfully opened.
+2023-01-28 16:59:37,869 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:00:30,292 INFO: Fortune500 closed successfully.
+2023-01-28 17:00:30,292 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:00:30,305 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:00:52,563 INFO: Fortune500 closed successfully.
+2023-01-28 17:00:52,563 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:00:52,575 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:02:23,553 INFO: Fortune500 closed successfully.
+2023-01-28 17:02:23,553 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:02:23,566 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:02:49,737 INFO: Fortune500 closed successfully.
+2023-01-28 17:02:49,738 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:02:49,750 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:03:39,402 INFO: Fortune500 closed successfully.
+2023-01-28 17:03:39,402 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:03:39,413 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:04:33,810 INFO: Fortune500 closed successfully.
+2023-01-28 17:04:33,810 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:04:33,822 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:04:51,943 INFO: Fortune500 closed successfully.
+2023-01-28 17:04:51,943 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:04:51,954 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:05:11,326 INFO: Fortune500 closed successfully.
+2023-01-28 17:05:11,327 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:05:11,340 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:05:40,408 INFO: Fortune500 closed successfully.
+2023-01-28 17:05:40,408 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:05:40,420 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:08:46,950 INFO: Fortune500 closed successfully.
+2023-01-28 17:08:46,950 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:08:46,962 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:09:45,766 INFO: Fortune500 closed successfully.
+2023-01-28 17:09:45,767 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:09:45,779 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:13:13,630 INFO: Fortune500 closed successfully.
+2023-01-28 17:13:13,630 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:13:13,643 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:13:30,272 INFO: Fortune500 closed successfully.
+2023-01-28 17:13:30,273 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:13:30,284 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:13:47,582 INFO: Fortune500 closed successfully.
+2023-01-28 17:13:47,583 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:13:47,596 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:14:12,523 INFO: Fortune500 closed successfully.
+2023-01-28 17:14:12,523 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:14:12,535 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:16:50,516 INFO: Fortune500 closed successfully.
+2023-01-28 17:16:50,516 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:16:50,527 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:21:07,988 INFO: Fortune500 closed successfully.
+2023-01-28 17:21:07,989 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:21:08,000 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:24:28,662 INFO: Fortune500 closed successfully.
+2023-01-28 17:24:28,663 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:24:28,675 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:24:46,657 INFO: Fortune500 closed successfully.
+2023-01-28 17:24:46,658 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:24:46,670 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:24:59,457 INFO: Fortune500 closed successfully.
+2023-01-28 17:24:59,458 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:24:59,469 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:26:42,928 INFO: Fortune500 closed successfully.
+2023-01-28 17:26:42,929 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:26:42,940 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:27:16,948 INFO: Fortune500 closed successfully.
+2023-01-28 17:27:16,949 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:27:16,961 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:27:59,062 INFO: Fortune500 closed successfully.
+2023-01-28 17:27:59,062 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:27:59,070 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:28:15,720 INFO: Fortune500 closed successfully.
+2023-01-28 17:28:15,721 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:28:15,733 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:35:30,828 INFO: Fortune500 closed successfully.
+2023-01-28 17:35:30,829 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:35:30,839 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:35:47,411 INFO: Fortune500 closed successfully.
+2023-01-28 17:35:47,412 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:35:47,424 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:41:58,631 INFO: Fortune500 closed successfully.
+2023-01-28 17:41:58,632 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:41:58,644 INFO: Fortune500 Database successfully opened.
+2023-01-28 17:42:30,438 INFO: Fortune500 closed successfully.
+2023-01-28 17:42:30,438 INFO: [Info] Fortune500 Database created..
+2023-01-28 17:42:30,451 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:44:38,557 INFO: Fortune500 closed successfully.
+2023-01-30 09:44:38,557 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:44:38,572 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:44:50,357 INFO: Fortune500 closed successfully.
+2023-01-30 09:44:50,358 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:44:50,370 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:46:04,123 INFO: Fortune500 closed successfully.
+2023-01-30 09:46:04,124 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:46:04,137 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:46:19,196 INFO: Fortune500 closed successfully.
+2023-01-30 09:46:19,197 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:46:19,210 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:46:54,950 INFO: Fortune500 closed successfully.
+2023-01-30 09:46:54,950 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:46:54,962 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:47:13,221 INFO: Fortune500 closed successfully.
+2023-01-30 09:47:13,222 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:47:13,233 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:48:57,218 INFO: Fortune500 closed successfully.
+2023-01-30 09:48:57,219 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:48:57,231 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:51:50,080 INFO: Fortune500 closed successfully.
+2023-01-30 09:51:50,081 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:51:50,093 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:52:26,001 INFO: Fortune500 closed successfully.
+2023-01-30 09:52:26,002 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:52:26,014 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:54:20,762 INFO: Fortune500 closed successfully.
+2023-01-30 09:54:20,762 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:54:20,773 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:55:03,557 INFO: Fortune500 closed successfully.
+2023-01-30 09:55:03,558 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:55:03,569 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:56:16,307 INFO: Fortune500 closed successfully.
+2023-01-30 09:56:16,308 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:56:16,319 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:58:33,521 INFO: Fortune500 closed successfully.
+2023-01-30 09:58:33,522 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:58:33,532 INFO: Fortune500 Database successfully opened.
+2023-01-30 09:58:51,539 INFO: Fortune500 closed successfully.
+2023-01-30 09:58:51,550 INFO: [Info] Fortune500 Database created..
+2023-01-30 09:58:51,568 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:01:07,514 INFO: Fortune500 closed successfully.
+2023-01-30 10:01:07,514 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:01:07,527 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:01:22,231 INFO: Fortune500 closed successfully.
+2023-01-30 10:01:22,231 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:01:22,243 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:05:06,179 INFO: Fortune500 closed successfully.
+2023-01-30 10:05:06,179 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:05:06,192 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:05:25,450 INFO: Fortune500 closed successfully.
+2023-01-30 10:05:25,451 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:05:25,463 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:06:32,137 INFO: Fortune500 closed successfully.
+2023-01-30 10:06:32,138 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:06:32,149 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:07:50,157 INFO: Fortune500 closed successfully.
+2023-01-30 10:07:50,157 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:07:50,169 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:09:13,289 INFO: Fortune500 closed successfully.
+2023-01-30 10:09:13,289 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:09:13,301 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:09:27,187 INFO: Fortune500 closed successfully.
+2023-01-30 10:09:27,188 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:09:27,199 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:09:35,651 INFO: Fortune500 closed successfully.
+2023-01-30 10:09:35,651 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:09:35,664 INFO: Fortune500 Database successfully opened.
+2023-01-30 10:16:33,305 INFO: Fortune500 closed successfully.
+2023-01-30 10:16:33,306 INFO: [Info] Fortune500 Database created..
+2023-01-30 10:16:33,317 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:20:35,010 INFO: Fortune500 closed successfully.
+2023-01-30 11:20:35,011 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:20:35,023 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:25:47,618 INFO: Fortune500 closed successfully.
+2023-01-30 11:25:47,618 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:25:47,630 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:28:27,582 INFO: Fortune500 closed successfully.
+2023-01-30 11:28:27,582 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:28:27,593 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:34:07,074 INFO: Fortune500 closed successfully.
+2023-01-30 11:34:07,075 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:34:07,086 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:35:37,227 INFO: Fortune500 closed successfully.
+2023-01-30 11:35:37,227 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:35:37,238 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:36:37,780 INFO: Fortune500 closed successfully.
+2023-01-30 11:36:37,782 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:36:37,794 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:37:13,522 INFO: Fortune500 closed successfully.
+2023-01-30 11:37:13,524 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:37:13,535 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:38:41,978 INFO: Fortune500 closed successfully.
+2023-01-30 11:38:41,981 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:38:41,994 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:39:11,324 INFO: Fortune500 closed successfully.
+2023-01-30 11:39:11,327 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:39:11,339 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:40:49,030 INFO: Fortune500 closed successfully.
+2023-01-30 11:40:49,033 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:40:49,050 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:41:17,356 INFO: Fortune500 closed successfully.
+2023-01-30 11:41:29,581 INFO: Fortune500 closed successfully.
+2023-01-30 11:41:29,584 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:41:29,600 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:42:45,331 INFO: Fortune500 closed successfully.
+2023-01-30 11:42:45,337 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:42:45,348 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:46:09,835 INFO: Fortune500 closed successfully.
+2023-01-30 11:46:09,838 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:46:09,853 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:46:22,718 INFO: Fortune500 closed successfully.
+2023-01-30 11:46:22,721 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:46:22,733 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:53:22,262 INFO: Fortune500 closed successfully.
+2023-01-30 11:53:22,266 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:53:22,278 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:57:09,093 INFO: Fortune500 closed successfully.
+2023-01-30 11:57:09,096 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:57:09,108 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:57:52,830 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:58:38,078 INFO: [Info] Fortune500 Database created..
+2023-01-30 11:58:38,091 INFO: Fortune500 Database successfully opened.
+2023-01-30 11:59:26,629 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:00:27,118 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:01:03,367 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:01:03,373 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:05:46,124 INFO: Fortune500 closed successfully.
+2023-01-30 12:05:46,127 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:05:46,129 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:06:19,595 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:06:19,607 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:10:19,910 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:10:19,922 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:10:47,882 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:14:16,006 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:14:35,950 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:15:06,586 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:15:41,443 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:16:44,542 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:17:06,696 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:17:42,787 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:17:48,350 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:17:48,362 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:18:11,689 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:18:11,702 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:18:50,082 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:19:17,012 INFO: [Info] Fortune500 Database created..
+2023-01-30 12:19:17,028 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:19:35,983 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:24:58,111 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:25:05,908 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:25:41,981 INFO: Fortune500 Database successfully opened.
+2023-01-30 12:25:54,872 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:44:36,938 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:50:00,538 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:51:01,517 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:51:41,894 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:51:55,281 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:52:41,881 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:53:19,951 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:54:22,225 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:54:43,515 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:54:53,284 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:55:00,716 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:55:26,753 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:56:50,173 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:58:36,248 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:59:06,919 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:59:30,071 INFO: Fortune500 Database successfully opened.
+2023-01-30 13:59:52,116 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:01:11,179 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:02:10,905 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:03:14,287 INFO: [Info] Fortune500 Database created..
+2023-01-30 14:03:14,299 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:03:33,918 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:03:40,137 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:04:37,808 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:05:06,943 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:05:39,739 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:05:47,453 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:07:39,310 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:08:53,985 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:09:05,673 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:09:24,220 INFO: [Info] Fortune500 Database created..
+2023-01-30 14:09:24,232 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:10:14,645 INFO: [Info] Fortune500 Database created..
+2023-01-30 14:10:14,657 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:10:38,745 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:11:03,939 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:11:15,898 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:11:54,454 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:12:47,759 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:13:01,047 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:13:45,689 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:15:51,214 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:16:21,501 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:18:33,173 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:18:41,327 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:18:50,917 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:19:18,966 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:19:36,843 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:20:17,754 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:20:25,291 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:20:36,844 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:23:37,575 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:24:11,358 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:24:21,417 INFO: Fortune500 Database successfully opened.
+2023-01-30 14:24:54,591 INFO: Fortune500 Database successfully opened.
+2023-01-30 15:48:59,062 INFO: [Info] Fortune500 Database created..
+2023-01-30 15:51:25,483 INFO: [Info] Fortune500 Database created..
+2023-01-30 15:58:28,691 INFO: [Info] Fortune500 Database created..
+2023-01-30 16:01:40,700 INFO: [Info] Fortune500 Database created..
+2023-01-30 16:06:03,920 INFO: [Info] Fortune500 Database created..
+2023-01-30 16:07:41,549 INFO: [Info] Fortune500 Database created..
+2023-01-30 16:14:30,026 INFO: [Info] Fortune500 Database created..
+2023-01-30 16:14:43,659 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:16:31,844 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:16:45,665 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:26:53,814 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:29:38,294 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:30:40,985 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:31:22,251 INFO: Fortune500 Database successfully opened.
+2023-01-30 16:31:54,261 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:13:23,980 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:14:30,012 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:16:42,976 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:17:02,998 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:19:17,668 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:20:36,060 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:21:57,331 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:23:20,606 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:57:42,086 INFO: Fortune500 Database successfully opened.
+2023-01-30 17:59:44,618 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:00:12,019 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:02:11,662 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:02:20,247 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:04:07,463 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:04:19,993 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:05:03,134 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:06:15,007 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:06:22,642 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:06:35,941 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:06:52,242 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:11:01,694 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:14:33,138 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:18:32,675 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:19:31,843 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:20:19,091 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:26:58,900 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:30:11,754 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:34:26,298 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:34:33,556 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:35:21,737 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:35:55,137 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:38:24,234 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:38:31,097 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:39:11,014 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:40:24,871 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:41:02,717 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:45:51,706 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:45:59,208 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:58:43,934 INFO: [Info] Fortune500 Database created..
+2023-01-30 18:58:52,552 INFO: Fortune500 Database successfully opened.
+2023-01-30 18:59:09,062 INFO: Fortune500 Database successfully opened.
+2023-01-30 19:01:14,613 INFO: Fortune500 Database successfully opened.
+2023-01-30 19:01:25,693 INFO: Fortune500 Database successfully opened.
+2023-01-30 19:05:52,864 INFO: Fortune500 Database successfully opened.
+2023-01-30 19:09:44,712 INFO: Fortune500 Database successfully opened.
+2023-01-30 20:04:56,684 INFO: [Info] Fortune500 Database created..
+2023-01-30 20:04:56,699 INFO: Fortune500 Database successfully opened.
+2023-01-30 20:06:03,881 INFO: [Info] Fortune500 Database created..
+2023-01-30 20:06:03,893 INFO: Fortune500 Database successfully opened.
+2023-01-30 20:06:20,206 INFO: [Info] Fortune500 Database created..
+2023-01-30 20:06:20,220 INFO: Fortune500 Database successfully opened.
+2023-01-30 20:10:16,513 INFO: [Info] Fortune500 Database created..
+2023-01-30 20:10:16,525 INFO: Fortune500 Database successfully opened.
+2023-01-30 20:10:51,633 INFO: [Info] Fortune500 Database created..
+2023-01-30 20:10:51,646 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:34:32,447 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:36:27,979 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:36:43,489 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:37:16,285 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:37:22,278 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:37:43,628 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:37:49,417 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:38:49,590 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:40:53,630 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:40:59,071 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:41:17,288 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:41:22,878 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:41:49,346 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:42:02,481 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:42:25,681 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:42:30,921 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:42:53,161 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:42:59,390 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:43:11,149 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:43:15,635 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:43:30,067 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:43:42,845 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:43:56,779 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:44:13,613 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:44:36,410 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:44:50,486 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:45:05,105 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:45:20,479 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:45:35,517 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:45:39,859 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:46:08,769 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:46:35,297 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:46:49,829 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:47:08,741 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:47:29,340 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:49:49,262 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:50:33,377 INFO: Fortune500 Database successfully opened.
+2023-01-31 12:58:39,506 INFO: Fortune500 Database successfully opened.
+2023-01-31 13:01:26,232 INFO: Fortune500 Database successfully opened.
+2023-01-31 13:03:49,812 INFO: Fortune500 Database successfully opened.
+2023-01-31 13:04:45,248 INFO: [Info] Fortune500 Database created..
+2023-01-31 13:04:51,874 INFO: Fortune500 Database successfully opened.
+2023-01-31 13:06:21,290 INFO: Fortune500 Database successfully opened.
+2023-01-31 17:39:14,016 INFO: [Info] Fortune500 Database created..
+2023-01-31 17:39:20,364 INFO: Fortune500 Database successfully opened.
+2023-01-31 17:41:03,098 INFO: Fortune500 Database successfully opened.
+2023-01-31 17:42:29,198 INFO: Fortune500 Database successfully opened.
+2023-01-31 17:53:36,558 INFO: Fortune500 Database successfully opened.
+2023-01-31 17:57:39,627 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:01:09,355 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:01:09,368 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:01:19,859 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:01:19,870 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:02:32,793 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:02:32,805 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:02:38,939 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:02:38,949 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:03:18,731 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:03:18,744 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:05:06,774 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:05:06,786 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:05:41,563 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:05:41,575 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:09:57,954 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:09:57,967 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:11:37,921 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:12:48,411 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:13:58,952 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:15:31,929 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:17:44,236 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:19:57,776 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:21:33,236 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:27:02,060 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:34:01,236 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:37:40,755 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:49:27,168 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:52:26,233 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:53:17,180 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:53:17,183 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:53:21,465 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:53:21,467 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:54:43,410 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:54:43,416 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:55:41,918 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:55:41,920 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:56:25,223 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:56:25,226 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:57:04,580 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:57:04,582 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:57:13,806 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:57:38,168 INFO: [Info] Fortune10 Database created..
+2023-01-31 18:57:38,170 INFO: Fortune10 Database successfully opened.
+2023-01-31 18:57:51,525 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:57:51,530 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:58:07,084 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:58:07,086 INFO: Fortune500 Database successfully opened.
+2023-01-31 18:58:40,702 INFO: [Info] Fortune500 Database created..
+2023-01-31 18:58:53,551 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:03:15,709 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:03:15,711 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:03:33,707 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:03:33,709 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:04:40,621 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:04:40,623 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:05:28,382 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:05:28,383 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:06:06,963 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:06:06,966 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:07:40,312 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:07:40,314 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:07:47,118 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:07:47,151 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:08:10,830 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:08:10,836 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:08:38,515 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:09:34,046 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:10:44,252 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:15:58,108 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:16:45,595 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:16:52,513 INFO: Fortune500 Database successfully opened.
+2023-01-31 19:21:45,968 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:23:26,352 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:23:52,268 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:24:00,667 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:24:38,822 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:25:12,883 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:25:22,584 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:28:42,562 INFO: [Info] Fortune500 Database created..
+2023-01-31 19:29:42,444 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:30:18,902 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:30:24,592 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:30:55,358 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:31:52,302 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:32:51,590 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:33:03,163 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:35:26,295 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:35:39,700 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:38:36,710 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:38:45,519 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:41:04,292 INFO: [Info] Fortune10 Database created..
+2023-01-31 19:41:16,371 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:41:38,073 INFO: Fortune10 Database successfully opened.
+2023-01-31 19:43:55,018 INFO: Fortune10 Database successfully opened.
